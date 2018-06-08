@@ -21,7 +21,7 @@ published: true
     <td>My Badges</td>
   </tr>
   <tr>
-    <td></td>
+    <td>href="https://www.w3schools.com"></td>
   </tr>
 </table>
 
