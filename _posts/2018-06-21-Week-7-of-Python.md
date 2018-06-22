@@ -56,6 +56,7 @@ published: true
     <td>I will improve my learning by concentrating throughout of the lesson and only talking to my peers when I need help or are talking about the work we had been set. I will also change by signing into the computer quickly and opening up Codecademy quickly after that so I do not get distracted by other things eg. Google Classroom.
 </td>
   </tr>
+  <img src = "/images/Screenshot 2018-06-22 at 13.08.17.png">
 </table>
-<img src = "/images/Screenshot 2018-06-22 at 13.08.17.png">
+
 
