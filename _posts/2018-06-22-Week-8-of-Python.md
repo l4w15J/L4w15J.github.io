@@ -53,7 +53,7 @@ published: true
   </tr>
   <tr>
     <td>Next time I will take more time doing the exercises so then I can complete as much work as possible. I will also, try to remember My password!</td>
-    <img src = "">
+    <img src = "/images/Screenshot 2018-06-28 at 12.58.42.png">
   </tr>
 </table>
 
