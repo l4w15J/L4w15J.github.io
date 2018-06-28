@@ -52,8 +52,9 @@ published: true
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Next time I will take more time doing the exercises so then I can complete as much work as possible. I will also, try to remember My password!</td>
-    <img src = "/images/Screenshot 2018-06-28 at 12.58.42.png">
+    <td>Next time I will take more time doing the exercises so then I can complete as much work as possible. I will also, try to remember My password!
+     <img src = "/images/Screenshot 2018-06-28 at 12.58.42.png"></td>
+   
   </tr>
 </table>
 
