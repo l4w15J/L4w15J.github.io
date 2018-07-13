@@ -56,6 +56,7 @@ published: true
     <td>Next time I will focus on my work rather than talking. I will also make sure to try and do it on my own rather than relying on other people to help me do the work.</td>
     
     <img src = "/images/Screenshot 2018-07-13 at 12.53.54.png"></td>
+     <img src = ""></td>
   </tr>
 </table>
 
