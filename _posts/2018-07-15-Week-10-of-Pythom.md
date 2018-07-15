@@ -55,6 +55,7 @@ published: true
   <tr>
     <td>Next time I will improve my learning by not talking to others around me. And if I do, making sure i am asking for help or an idea of what to do rather than just talking about non-relevant subjects.
    <img src = "/images/Screenshot 2018-07-13 at 14.37.26.png"> 
+   <img src = "/images/Screenshot 2018-07-13 at 14.37.40.png">
     </td>
   </tr>
 </table>
