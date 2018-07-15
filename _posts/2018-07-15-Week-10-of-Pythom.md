@@ -53,7 +53,9 @@ published: true
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Next time I will improve my learning by not talking to others around me. And if I do, making sure i am asking for help or an idea of what to do rather than just talking about non-relevant subjects.</td>
+    <td>Next time I will improve my learning by not talking to others around me. And if I do, making sure i am asking for help or an idea of what to do rather than just talking about non-relevant subjects.
+   <img src = ""> 
+    </td>
   </tr>
 </table>
 
